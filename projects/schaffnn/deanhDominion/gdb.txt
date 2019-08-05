@@ -1,0 +1,165 @@
+Breakpoint 1 at 0x401153: file unittest1.c, line 48.
+Starting program: /nfs/stak/users/schaffnn/cs362/week6/./unittest1 
+warning: the debug information found in "/usr/lib/debug//lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+
+Breakpoint 1, main () at unittest1.c:49
+49	    baronRe(&testG, 0, 1);
+Missing separate debuginfos, use: debuginfo-install glibc-2.17-222.el7.x86_64
+Hardware watchpoint 2: testG.numBuys
+Continuing.
+
+Watchpoint 2 deleted because the program has left the block in
+which its expression is valid.
+0x00007ffff772e445 in __libc_start_main () from /lib64/libc.so.6
+Breakpoint 1 at 0x40110d: file unittest2.c, line 42.
+Starting program: /nfs/stak/users/schaffnn/cs362/week6/./unittest2 
+warning: the debug information found in "/usr/lib/debug//lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+
+Breakpoint 1, main () at unittest2.c:43
+43	    minionRe(&testG, 0, 1, 0, 0);
+Missing separate debuginfos, use: debuginfo-install glibc-2.17-222.el7.x86_64
+Hardware watchpoint 2: testG.numActions
+Continuing.
+
+Watchpoint 2 deleted because the program has left the block in
+which its expression is valid.
+0x00007ffff772e445 in __libc_start_main () from /lib64/libc.so.6
+Breakpoint 1 at 0x40110d: file unittest2.c, line 42.
+No symbol "testG" in current context.
+Starting program: /nfs/stak/users/schaffnn/cs362/week6/./unittest2 
+warning: the debug information found in "/usr/lib/debug//lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+
+Breakpoint 1, main () at unittest2.c:43
+43	    minionRe(&testG, 0, 1, 0, 0);
+Missing separate debuginfos, use: debuginfo-install glibc-2.17-222.el7.x86_64
+Hardware watchpoint 2: testG.handCount[1]
+Continuing.
+Hardware watchpoint 2: testG.handCount[1]
+
+Old value = 0
+New value = 5
+main () at unittest2.c:71
+71	    for(int i = 0; i < 5; i++){                                                                     // For loop to assign 5 baron cards to the next player's hand
+Continuing.
+Hardware watchpoint 2: testG.handCount[1]
+
+Old value = 5
+New value = 0
+0x00007ffff7860587 in __memcpy_ssse3_back () from /lib64/libc.so.6
+Continuing.
+Hardware watchpoint 2: testG.handCount[1]
+
+Old value = 0
+New value = 3
+main () at unittest2.c:101
+101	    for(int i = 0; i < 3; i++){                                                                     // For loop to assign 3 baron cards to the next player's hand
+Continuing.
+
+Watchpoint 2 deleted because the program has left the block in
+which its expression is valid.
+0x00007ffff772e445 in __libc_start_main () from /lib64/libc.so.6
+Breakpoint 1 at 0x4010fb: file unittest5.c, line 42.
+Starting program: /nfs/stak/users/schaffnn/cs362/week6/./unittest5 
+warning: the debug information found in "/usr/lib/debug//lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//ld-2.17.so.debug" does not match "/lib64/ld-linux-x86-64.so.2" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//libm-2.17.so.debug" does not match "/lib64/libm.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug//usr/lib64/libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+warning: the debug information found in "/usr/lib/debug/usr/lib64//libc-2.17.so.debug" does not match "/lib64/libc.so.6" (CRC mismatch).
+
+
+Breakpoint 1, main () at unittest5.c:43
+43	    testG.hand[0][0] = mine;
+Missing separate debuginfos, use: debuginfo-install glibc-2.17-222.el7.x86_64
+Hardware watchpoint 2: testG.hand[0][1]
+Continuing.
+
+Watchpoint 2 deleted because the program has left the block in
+which its expression is valid.
+0x00007ffff772e445 in __libc_start_main () from /lib64/libc.so.6
